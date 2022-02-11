@@ -1,3 +1,2 @@
 # NLL
-Nathan Lee's Launcher
-NL Launcher Is A All Round Launcher For All Your Games And Apps!
+Nathan Lee's Launcher Is A All Round Launcher For All Your Games And Apps!
